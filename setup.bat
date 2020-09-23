@@ -10,6 +10,7 @@ choco install hyper
 choco install google-chrome
 echo Wait until Chrome is installed...
 pause
+:: Install Games
 start chrome https://www.fosshub.com/WinDirStat.html?dwl=windirstat1_1_2_setup.exe
 start chrome https://signup.na.leagueoflegends.com/en/signup/redownload
 start chrome https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.na.exe
